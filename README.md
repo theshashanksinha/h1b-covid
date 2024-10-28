@@ -7,7 +7,6 @@ This project provides an in-depth analysis of the H-1B visa landscape, focusing 
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources and Tools](#data-sources-and-tools)
-- [Usage](#usage)
 - [Data Structure](#data-structure)
 - [Analysis and Key Findings](#analysis-and-key-findings)
 - [Future Scope](#future-scope)
@@ -22,21 +21,15 @@ The H-1B visa program is crucial for industries in the U.S. that depend on highl
 
 ## Data Sources and Tools
 - **Data Range:** Q1 2019 – Q3 2024
-- **Data Source:** U.S. Department of Labor H-1B data (2018-2024)
+- **Data Source:** U.S. Department of Labor H-1B data (2019-2024)
 - **Tools Used:** 
   - **Python**: Data cleaning, statistical analysis
   - **Power BI**: Interactive dashboard for visualization
   - **MS Office**: Documentation and reporting
 
-## Usage
-### Running the Analysis
-1. Ensure all CSV files are in the `/data` directory.
-2. Execute `analysis_script.py` to process the datasets and generate summary statistics.
-3. Open `dashboard.pbix` in Power BI to view interactive visualizations of the results.
-
-### Power BI Dashboard
+## Power BI Dashboard
 The Power BI dashboard provides the following insights:
-- **Application Trends Over Time**: Visualizes the number of H-1B applications from 2018 to 2024.
+- **Application Trends Over Time**: Visualizes the number of H-1B applications from 2019 to 2024.
 - **COVID-19 Impact**: Shows case outcomes by year, highlighting how the pandemic affected application approvals and denials.
 - **Wage Trends**: Displays the average wage offered to H-1B applicants across different years.
 - **Industry Analysis**: Identifies top industries employing H-1B visa holders and their respective wage offerings.
@@ -71,4 +64,3 @@ This analysis can be expanded by:
 ---
 
 For additional information, contact [Shashank Sinha](https://www.linkedin.com/in/theshashanksinha/).
-```
