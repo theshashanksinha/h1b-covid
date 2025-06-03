@@ -60,7 +60,3 @@ This analysis can be expanded by:
 - Incorporating data beyond 2024 for trend continuation.
 - Conducting deeper industry-specific analyses on how wage offerings have adapted post-pandemic.
 - Analyzing policy impacts on H-1B visa processes and outcomes in future U.S. administrations.
-
----
-
-For additional information, contact [Shashank Sinha](https://www.linkedin.com/in/theshashanksinha/).
